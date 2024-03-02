@@ -1,5 +1,8 @@
+<h1>Hello, I'm Waseem Ahmad!</h1>
+<p>Welcome to my GitHub space where I showcase my journey in computer application development. Take a stroll through the projects and code samples – your exploration is encouraged!</p>
+
 # 💫 About Me:
-A dedicated computer science student <br>with a passion for technology, <br>Currently pursuing his master's <br>degree and with experience in <br>web development
+A dedicated computer science student with a passion for technology, Currently pursuing his master's degree and with experience in web development
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/home) 
