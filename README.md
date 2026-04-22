@@ -30,7 +30,7 @@
 {
   "degree"    : "MCA — Master of Computer Applications ✅",
   "role"      : "Full-Stack Web Developer",
-  "location"  : "India 🇮🇳",
+  "location"  : "India",
 
   "languages" : ["C", "Java", "JavaScript", "HTML5", "CSS3"],
   "stack"     : ["React", "Node.js", "Express"],
@@ -99,7 +99,7 @@
 
 <br/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadWaseem6&theme=midnight-purple&hide_border=true&background=0d0d0f&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&sideNums=e2e8f0&currStreakNum=f1f0ff&dates=4b5563)
+![Streak](https://streak-stats.demolab.com/?user=MohammadWaseem6&theme=midnight-purple&hide_border=true&background=0d0d0f&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&sideNums=e2e8f0&currStreakNum=f1f0ff&dates=4b5563)
 
 </div>
 
