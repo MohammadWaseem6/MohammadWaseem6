@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/◈%20Portfolio-7c3aed?style=for-the-badge&labelColor=1a0533)](https://waseem-dev-06.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628)]([https://www.linkedin.com/in/](https://www.linkedin.com/feed/))
 [![X](https://img.shields.io/badge/◈%20X%20%2F%20Twitter-374151?style=for-the-badge&logo=x&logoColor=white&labelColor=111827)](https://twitter.com/)
 [![Email](https://img.shields.io/badge/◈%20Email-991b1b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c0000)](mailto:your@email.com)
 
