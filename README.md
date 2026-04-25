@@ -11,6 +11,8 @@
 ![Role](https://img.shields.io/badge/ROLE-FULL--STACK%20DEV-60a5fa?style=for-the-badge&labelColor=0a1628)
 ![Views](https://komarev.com/ghpvc/?username=MohammadWaseem6&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=1a0533)
 
+</div>
+
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/◈%20Portfolio-7c3aed?style=for-the-badge&labelColor=1a0533)](https://waseem-dev-06.vercel.app/)
@@ -22,33 +24,41 @@
 
 ---
 
+## `$ cat profile.js`
 
+```javascript
+const waseem = {
 
-## `$ cat profile.json`
+  // 🎓 Identity
+  degree   : "MCA — Master of Computer Applications ✅",
+  role     : "Full-Stack Web Developer",
+  location : "India 🇮🇳",
 
-```json
-{
-  "degree"    : "MCA — Master of Computer Applications ✅",
-  "role"      : "Full-Stack Web Developer",
-  "location"  : "India 🇮🇳",
-  "languages" : ["Java", "JavaScript", "HTML5", "CSS3"],
-  "stack"     : ["React", "Node.js", "Express", "PostgreSQL"],
-  "cloud"     : ["Vercel", "Netlify", "GitHub Pages", "Docker", "Kubernetes"],
-  "tools"     : ["Git", "VS Code", "Postman", "NPM"],
-  "openTo"    : ["Full-time Roles", "Freelance", "Open Source"],
-  "url"       : "https://waseem-dev-06.vercel.app",
-  "status"    : "🟢 Actively Looking",
-  "motto"     : "Build it. Ship it. Improve it."
-}
+  // 💻 Tech
+  languages : [ "Java", "JavaScript", "HTML5", "CSS3" ],
+  stack     : [ "React", "Node.js", "Express", "PostgreSQL" ],
+  cloud     : [ "Vercel", "Netlify", "GitHub Pages", "Docker", "Kubernetes" ],
+  tools     : [ "Git", "VS Code", "Postman", "NPM" ],
+
+  // 🚀 Availability
+  openTo  : [ "Full-time Roles", "Freelance", "Open Source" ],
+  url     : "https://waseem-dev-06.vercel.app",
+  status  : "🟢 Actively Looking",
+
+  // ⚡ Motto
+  motto : "Build it. Ship it. Improve it."
+
+};
 ```
 
 - 🏆 &nbsp; **MCA Graduate** — Master of Computer Applications
 - 💻 &nbsp; Building production-ready apps with **React** & **Node.js**
-- 🔬 &nbsp; Strong CS fundamentals in **C** and **Java**
-- 🌱 &nbsp; Growing in **System Design**, **REST APIs** & **Cloud**
+- 🐘 &nbsp; Working with **PostgreSQL** & **Express** for robust backends
+- ☁️ &nbsp; Deploying with **Docker**, **Kubernetes**, **Vercel** & **Netlify**
+- 🌱 &nbsp; Growing in **System Design**, **REST APIs** & **Cloud Architecture**
 - ⚡ &nbsp; *Great software = 20% code + 80% thinking*
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -62,22 +72,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **— Frameworks & Runtime —**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
-**— Cloud & Deployment —**
+**— Cloud & DevOps —**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -85,9 +92,9 @@
 **— Tools —**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
